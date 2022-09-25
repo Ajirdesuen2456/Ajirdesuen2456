@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajirdesuen2456
-- 👀 I’m interested in data analytics/data science
-- 🌱 I’m currently learning python and excel
+- 👀 I’m interested in data analytics/data science/Machine learning
+- 🌱 I’m currently learning data analytics/data science (python and excel)
 - 💞️ I’m looking to collaborate on doing projects
 - 📫 How to reach me https://twitter.com/AndrewAjir?t=j0syoc7AcvbwJNs_lKFxhw&s=09, https://www.linkedin.com/in/desuen-ajir-b7060b231
 
